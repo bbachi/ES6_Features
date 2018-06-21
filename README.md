@@ -6,11 +6,9 @@
 
 ```
   const name = "github"
-  
   name = "node" // this will give you compile error
   
   const person = {}
-  
   person.firstName = "firstNAME" //this will not
 
 ```
